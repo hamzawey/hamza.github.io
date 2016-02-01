@@ -19,10 +19,9 @@
     margin-left: auto;
     margin-right:auto;
  }
+
+ 
 }
-
-
-
 
 @media all and (min-width: 991px) {
   .navbar-fixed-width {
@@ -30,6 +29,7 @@
     margin-left: auto;
     margin-right:auto;
   }
+  
 
 }
 
@@ -39,6 +39,12 @@
     margin-left: auto;
     margin-right:auto;
   }
+}
+
+@media screen and (max-width:700px){
+	 .section{
+	 padding-top:50px;
+ }
 }
 
 
@@ -53,7 +59,9 @@
 
 .body {
 	background-color: #AF4E4F;
+	padding-top: 10px;
 }
+
 
 html, body, .well {
 	height: 100%;
@@ -95,6 +103,7 @@ html, body, .well {
 	font-weight: bold;
 	text-decoration: underline;
 }
+
 
 .underline {
 	text-decoration: underline;

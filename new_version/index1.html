@@ -125,7 +125,6 @@ Mohy Mahmoud, Sherif G. Aly, Ahmed Sabry, <strong> Mostafa (Hamza) Sayed </stron
 
         
     $(document).ready(function(){
-        
         /** 
          * This part does the "fixed navigation after scroll" functionality
          * We use the jQuery function scroll() to recalculate our variables as the 
@@ -191,7 +190,11 @@ Mohy Mahmoud, Sherif G. Aly, Ahmed Sabry, <strong> Mostafa (Hamza) Sayed </stron
             }
         });
     });
-
+$(document).on('click','.navbar-collapse.in',function(e) {
+    if( $(e.target).is('a') ) {
+        $(this).collapse('hide');
+    }
+});
 </script>
 </body>
 </html>
