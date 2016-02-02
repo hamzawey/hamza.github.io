@@ -116,6 +116,12 @@ html, body, .well {
 	text-align: justify;
 }
 
+.contact-width {
+	margin-left:30px;
+	width: 90%;
+	text-align: justify;
+}
+
 /* navigation */
 
 nav ul {

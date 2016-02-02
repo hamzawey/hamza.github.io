@@ -34,22 +34,35 @@
         <li><a href="#" title="Home">
             	<span class="fa fa-home fa-fw" aria-hidden="true"></span>Home 
         </a></li>
-         <li><a href="#publications" title="Publications"> 
-            	<span class="fa fa-files-o"  aria-hidden="true"></span> Publications 
-        </a></li>
-		<li><a href="#teaching" title="Teaching"> 
-            	<span class="fa fa-briefcase"  aria-hidden="true"></span> Teaching
-        </a></li>
-       
-       <li><a href="#extra" title="extra"> 
-            	<span class="fa fa-users"  aria-hidden="true"></span> Extra-Curricular
-        </a></li>
-        <li><a href="#" title="Contact"><span class="fa fa-envelope" aria-hidden="true"></span> Contact</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Academia <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#teaching" title="Teaching"> 
+					<span class="fa fa-briefcase"  aria-hidden="true"></span> Teaching </a></li>
+                  <li><a href="#publications" title="Publications"> 
+            		<span class="fa fa-files-o"  aria-hidden="true"></span> Publications </a></li>
+                </ul>
+              </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Industry <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#experience" title="Experience"> 
+					<span class="fa fa-briefcase"  aria-hidden="true"></span> Experience </a></li>
+                  <li><a href="#industry-projects" title="industry-projects"> 
+            		<span class="fa fa-files-o"  aria-hidden="true"></span> Projects </a></li>
+                </ul>
+              </li>
+        <li><a href="#extra" title="extra"> 
+        	<span class="fa fa-users"  aria-hidden="true"></span> Extra-Curricular </a></li>
+		<li>
+         	<a href="#contact" title="Contact"><span class="fa fa-envelope" aria-hidden="true"></span> Contact</a>
+         </li>
       </ul>
+      
 	  <ul class="nav navbar-nav navbar-right right-align">
-		<li> <a class="fa fa-linkedin-square fa-2x social-style fa-fw" href="#"></a> 
+		<li id="linkedin"> <a class="fa fa-linkedin-square fa-2x social-style fa-fw"> </a> 
 		</li>	
-		<li><a class="fa fa-twitter-square fa-2x social-style fa-fw" href="#"></a></li>	
+		<li class id="twitter"><a class="fa fa-twitter-square fa-2x social-style fa-fw" href="#"></a></li>	
         <li><a class="fa fa-facebook-square fa-2x social-style fa-fw" href="#"></a></li>
 	  </ul>     
     </div>
@@ -102,12 +115,38 @@ Mohy Mahmoud, Sherif G. Aly, Ahmed Sabry, <strong> Mostafa (Hamza) Sayed </stron
   <section id="teaching">
   	<div class="section">
     	<span class="fa fa-briefcase"  aria-hidden="true">  Teaching </span>  </div>
+                coming soon ...
   </section>
   
-  <hr>  
+ 
+  
+  
+   <hr>  
+  <section id="experience">
+  	<div class="section">
+    	<span class="fa fa-users"  aria-hidden="true">  Experience </span>  </div>
+                coming soon ...
+  </section>
+  
+   <hr>  
+  <section id="industry-projects">
+  	<div class="section">
+    	<span class="fa fa-users"  aria-hidden="true">  Projects </span>  </div>
+        coming soon ...
+  </section>
+  
+   
+   <hr>  
   <section id="extra">
   	<div class="section">
     	<span class="fa fa-users"  aria-hidden="true">  Extra-Curricular </span>  </div>
+                coming soon ...
+  </section>
+   <hr>  
+  <section id="contact">
+  	<div class="section">
+    	<span class="fa fa-envelope"  aria-hidden="true">  Contact </span>  </div>
+    <div class="contact-width"> You can reach me through e-mail: <a href="mailto:msayed@ucalgary.ca?subject=[Contact From Website]: " > msayed@ucalgary.ca </a></div>
   </section>
   </div>  <!--div well -->
 </div> <!-- div container --> 
@@ -121,9 +160,16 @@ Mohy Mahmoud, Sherif G. Aly, Ahmed Sabry, <strong> Mostafa (Hamza) Sayed </stron
 <script src="js/bootstrap.js"></script>
 <script src="js/jquery.scrollto.js"></script>
 <script>
-    
-
-        
+  //linkedin url
+  $('#linkedin').click(function(){
+	  window.open("https://ca.linkedin.com/in/mostafahamza");
+   });  
+   
+   //twitter url
+   $('#twitter').click(function(){
+	  window.open("https://twitter.com/hamzawey");
+   });
+   
     $(document).ready(function(){
         /** 
          * This part does the "fixed navigation after scroll" functionality
@@ -148,6 +194,7 @@ Mohy Mahmoud, Sherif G. Aly, Ahmed Sabry, <strong> Mostafa (Hamza) Sayed </stron
         $("nav a").click(function(evn){
             evn.preventDefault();
             $('html,body').scrollTo(this.hash, this.hash); 
+			
         });
         
         
@@ -195,6 +242,8 @@ $(document).on('click','.navbar-collapse.in',function(e) {
         $(this).collapse('hide');
     }
 });
+
+
 </script>
 </body>
 </html>
