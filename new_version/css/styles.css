@@ -104,6 +104,10 @@ html, body, .well {
 	text-decoration: underline;
 }
 
+.year {
+	color: #143694;
+	font-weight: bold;
+}
 
 .underline {
 	text-decoration: underline;
