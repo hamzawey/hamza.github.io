@@ -12,6 +12,9 @@
 	background-image: -o-linear-gradient(270deg,rgba(195,192,192,1.00) 0%,rgba(245,238,238,1.00) 70.98%);
 	background-image: linear-gradient(180deg,rgba(195,192,192,1.00) 0%,rgba(245,238,238,1.00) 70.98%);
 }
+#teaching .section .fa.fa-graduation-cap.section-title {
+}
+
 
 @media all and (min-width : 762px){
   .navbar-fixed-width {
@@ -179,4 +182,18 @@ nav li a {
 a.nav-active {
 	color: #E71013;
 	background-color: #EBC4C4;
+}
+.section-title {
+	font-family: berkshire-swash;
+	font-style: normal;
+	font-size: x-large;
+	color:#6C1B1C;
+	font-weight: 600;	
+}
+
+.intro{
+	font-family: alike-angular;
+	font-style: normal;
+	font-size:large;
+	font-weight: 400;	
 }
