@@ -135,6 +135,7 @@ html, body, .well {
 	border: none;
 }
 
+
 @media all and (max-width: 500px) {
   .education-logo {
 		width:55%; 
@@ -162,6 +163,43 @@ html, body, .well {
 	width:15%; 
 	}
 }
+
+
+.experience-logo {
+	float:left;
+	margin-right:20px;
+	background-color: transparent;
+	border: none;
+}
+
+@media all and (max-width: 500px) {
+  .experience-logo {
+		width:60%; 
+  }
+}
+
+@media all and (min-width: 501px) {
+  .experience-logo {
+	width:40%; 
+	}
+}
+
+@media all and (min-width: 762px) {
+  .experience-logo {
+	width:40%; 
+	}
+}
+@media all and (min-width: 992px) {
+  .experience-logo {
+	width:30%; 
+	}
+}
+@media all and (min-width: 1200px) {
+.experience-logo {
+	width:25%; 
+	}
+}
+
 /* navigation */
 
 nav ul {
