@@ -164,6 +164,22 @@ html, body, .well {
 	}
 }
 
+.experience {
+	margin-left:20px;
+	float:left;
+}
+
+.experience-divider {
+	margin-right: 10%;  
+	
+}
+
+.hr-divider {
+	border: 1px solid palevioletred;
+	      margin-left:20px;
+	width: 95%; 
+
+}
 
 .experience-logo {
 	float:left;
