@@ -57,7 +57,7 @@
 }
 
 .body {
-	background-color: #AF4E4F;
+	background-color: grey;
 	padding-top: 10px;
 }
 
@@ -126,6 +126,9 @@ html, body, .well {
 	text-align: justify;
 }
 
+.extra-width {
+	margin-left: 30px;
+}
 
 
 .education-logo {
@@ -180,6 +183,21 @@ html, body, .well {
 	width: 95%; 
 
 }
+
+.hr-div {
+	margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left: 15px;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+	width:72%;
+}
+
+.div-align-right {
+	text-align:right;
+}
+
 
 .experience-logo {
 	float:left;
