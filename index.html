@@ -444,8 +444,6 @@
  }
  .header .tab.hamburger {
      background-color: transparent;
-     background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -6 24 24"><path fill="#4A4A4A" d="M0 12h18v-2H0v2M0 7h18V5H0v2M0 0v2h18V0H0"/></svg>');
-     background-repeat: no-repeat;
      background-size: 30px 24px;
      background-position: center center;
      border: none;
@@ -467,6 +465,27 @@
      .header .tab.hamburger {
          display: inline-block
      }
+ }
+
+ @media only screen and (max-width: 956px) {
+      .home {
+         display: none
+     }
+  
+ }
+
+ .home {
+   position: relative;
+   color: #424242;
+   padding: 30px;
+   margin: 0 0px;
+   margin-top:25px;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-weight: 400;
+   -webkit-transition: .1s ease color;
+   transition: .1s ease color
+}
  }
  .header div.tab {
      position: relative
@@ -517,7 +536,7 @@
      background: #f0f0f0
  }
  .header div.tab>ul li.external {
-     padding-right: 26px
+     padding-right: 26px;
  }
  .header div.tab>ul li.external a {
      background-size: 12px 12px;
@@ -525,12 +544,11 @@
      background-position: right 2px;
      padding-right: 16px
  }
- .header div.tab>ul li.external:hover a {
-     background-image: url(/static/img/ic_open_in_new_black.svg)
- }
+
  .header div.tab:hover>ul {
      opacity: 1;
      pointer-events: all;
+     margin-top:25px;
      -webkit-transform: translate(0, 0);
      transform: translate(0, 0)
  }
@@ -2170,8 +2188,9 @@
 	<amp-sidebar id='sidebar' side='left' layout='nodisplay'>
 	  <button class="tab hamburger" id="menu-button" on='tap:sidebar.toggle'></button>
 	  <nav>
-
+<a href="#home"> Home </a>
 	  <amp-accordion>
+
 		  <section >
 			<h2 class="heading">Academia</h2>
 			<ul>
@@ -2236,9 +2255,10 @@
   <div class="container">
     <div class="nav-container">
       <div class="left-nav">
-        <a href="/" class="tab header-title"><span></span></a>
+        <a href="#home" class="tab header-title"><span></span></a>
       </div>
       <div class="right alt">
+        <div class="home"><a href="#home"> Home </a> </div>
         <div class="tab">
           <a href="#academia">Academia</a>
           <ul>
@@ -2296,7 +2316,7 @@
 
 
  <amp-img src="images/banner_1.jpg" alt="Welcome" width="2528" height="764" layout="responsive"></amp-img>
-
+<section id="home" class="section"> </section>
 <div class=" well">
    <div class="intro">
       My name is <strong>Mostafa Hamza Sayed</strong>. I am a PhD candidate (Jan. 2014-present) in <a href="http://lsmr.org/">LSMR</a> Lab at the Department of Computer Science under the supervision of <a href="http://lsmr.org/who-we-are/walker">professor Robert J. Walker</a> and <a href="http://magedelaasar.com/">Dr. Maged Alasaar</a>.
