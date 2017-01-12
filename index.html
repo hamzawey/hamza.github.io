@@ -2187,6 +2187,24 @@
 
   </head>
   <body>
+
+    <amp-analytics type="googleanalytics">
+      <script type="application/json">
+        {
+          "vars": {
+            "account": "UA-79837977-1"
+          },
+          "triggers": {
+            "trackPageview": {
+              "on": "visible",
+              "request": "pageview"
+            }
+          }
+        }
+    </script>
+    </amp-analytics>
+
+
 	<amp-sidebar id='sidebar' side='left' layout='nodisplay'>
 	  <button class="tab hamburger" id="menu-button" on='tap:sidebar.toggle'></button>
 	  <nav>
