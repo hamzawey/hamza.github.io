@@ -195,17 +195,7 @@
      display: block;
      text-align: center
  }
- blockquote {
-     color: #797c82;
-     border-left: 4px solid #f5f5f5;
-     padding-left: 15px;
-     font-size: 18px;
-     letter-spacing: -1px;
-     font-style: italic
- }
- blockquote>:last-child {
-     margin-bottom: 0
- }
+
  .rtl blockquote {
      border-left: 0;
      border-right: 4px solid #f5f5f5;
@@ -1727,67 +1717,8 @@
          flex-basis: 100%
      }
  }
- .box__inner {
-     padding: 50px;
-     display: -webkit-box;
-     display: -ms-flexbox;
-     display: flex;
-     -webkit-box-orient: vertical;
-     -webkit-box-direction: normal;
-     -ms-flex-direction: column;
-     flex-direction: column;
-     -webkit-box-flex: 1;
-     -ms-flex: 1 0 0%;
-     flex: 1 0 0%
- }
- @media only screen and (max-width: 768px) {
-     .box__inner {
-         padding: 50px 30px 30px
-     }
- }
- @media only screen and (max-width: 320px) {
-     .box__inner {
-         padding: 40px 15px 20px
-     }
- }
- .box__content {
-     margin-bottom: 20px;
-     line-height: 1.7;
-     -webkit-box-flex: 1;
-     -ms-flex: 1 0 0%;
-     flex: 1 0 0%
- }
- .box__footer {
-     display: -webkit-box;
-     display: -ms-flexbox;
-     display: flex;
-     -webkit-box-orient: horizontal;
-     -webkit-box-direction: normal;
-     -ms-flex-direction: row;
-     flex-direction: row
- }
- .box__image {
-     margin-right: 20px
- }
- .box__image amp-img {
-     border-radius: 50%;
-     overflow: hidden
- }
- .box__credit {
-     margin-top: 12px;
-     -webkit-box-flex: 1;
-     -ms-flex: 1 0 0%;
-     flex: 1 0 0%
- }
- .box__title {
-     font-size: 20px;
-     color: #4a4a4a;
-     margin: 0;
-     line-height: 1.2
- }
- .box__subtitle {
-     line-height: 1.3
- }
+
+
  .accordion-slider {
      display: -webkit-box;
      display: -ms-flexbox;
@@ -1806,75 +1737,12 @@
      line-height: 1.5;
      position: initial
  }
- .accordion__section {
-     padding: 0;
-     border-bottom: 1px solid #e9e9e9
- }
- .accordion__header {
-     background-color: transparent;
-     border: none;
-     padding: 14px 0;
-     -webkit-transition: .15s;
-     transition: .15s;
-     cursor: pointer
- }
- .accordion__header:hover,
- .accordion__header:focus {
-     background-color: #fafafa
- }
- .accordion__header:active {
-     -webkit-transition: 0.3s ease-out;
-     transition: 0.3s ease-out;
-     background-color: #f5f5f5
- }
- .accordion__title {
-     color: #0379C4;
-     margin: 0;
-     position: relative
- }
- .home .accordion__title {
+
+
+ .home {
      margin-bottom: 0
  }
- @media only screen and (max-width: 956px) {
-     .home .accordion__title {
-         font-size: 30px
-     }
- }
- .accordion__title:after {
-     content: "";
-     display: block;
-     position: absolute;
-     right: 0;
-     top: 0;
-     bottom: 0;
-     margin: auto;
-     width: 12px;
-     height: 12px;
-     background: transparent url(/static/img/cheveron-down.svg) no-repeat 50% 50%;
-     -webkit-transition: 0.15s ease;
-     transition: 0.15s ease;
-     -webkit-transform: rotateX(0deg);
-     transform: rotateX(0deg)
- }
- .accordion__header:active .accordion__title:after {
-     -webkit-transition: 0.3s ease-out;
-     transition: 0.3s ease-out;
-     -webkit-transform: rotateX(45deg);
-     transform: rotateX(45deg)
- }
- [expanded] .accordion__header:active .accordion__title:after {
-     -webkit-transform: rotateX(235deg);
-     transform: rotateX(235deg)
- }
- [expanded] .accordion__title:after {
-     -webkit-transform: rotateX(180deg);
-     transform: rotateX(180deg)
- }
- .accordion__content {
-     font-size: 16px;
-     color: #616161;
-     margin: 0 0 40px
- }
+
  .accordion__figure {
      padding: 40px 40px 0;
      margin: 0 0 20px;
@@ -1890,37 +1758,7 @@
          padding-right: 20%
      }
  }
- .accordion__text {
-     margin-top: 20px;
-     max-width: 34em
- }
- .lightbox {
-     background-color: rgba(51, 51, 51, 0.9)
- }
- .lightbox__container {
-     position: relative;
-     top: 50%;
-     padding: 50px;
-     -webkit-transform: translateY(-50%);
-     transform: translateY(-50%)
- }
- @media only screen and (max-width: 956px) {
-     .lightbox__container {
-         padding: 30px
-     }
- }
- .lightbox__close {
-     cursor: pointer;
-     position: absolute;
-     right: 5px;
-     top: 5px;
-     width: 40px;
-     height: 40px;
-     background-image: url("/static/img/close.svg");
-     background-repeat: no-repeat;
-     background-position: center;
-     background-size: 20px
- }
+
  amp-sidebar .hamburger {
      display: inline-block;
      background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -6 24 24"><path fill="#000" d="M0 12h18v-2H0v2M0 7h18V5H0v2M0 0v2h18V0H0"/></svg>');
