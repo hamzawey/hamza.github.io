@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_HD" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD
+#EXTINF:-1 tvg-ID="beINSports1.qa" tvg-name="BEIN_SPORT_1_HD" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/858.ts
-#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_HD" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD
+#EXTINF:-1 tvg-ID="beINSports2.qa" tvg-name="BEIN_SPORT_2_HD" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/859.ts
-#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD
+#EXTINF:-1 tvg-ID="beINSports3.qa" tvg-name="BEIN_SPORT_3_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/860.ts
-#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD
+#EXTINF:-1 tvg-ID="beINSports4.qa" tvg-name="BEIN_SPORT_4_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/861.ts
-#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD
+#EXTINF:-1 tvg-ID="beINSports5.qa" tvg-name="BEIN_SPORT_5_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/862.ts
-#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD
+#EXTINF:-1 tvg-ID="beINSports6.qa" tvg-name="BEIN_SPORT_6_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/863.ts
-#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD
+#EXTINF:-1 tvg-ID="beINSports7.qa" tvg-name="BEIN_SPORT_7_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/864.ts
-#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD
+#EXTINF:-1 tvg-ID="beINSports8.qa" tvg-name="BEIN_SPORT_8_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/865.ts
-#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD
+#EXTINF:-1 tvg-ID="beINSports9.qa" tvg-name="BEIN_SPORT_9_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/866.ts
-#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="BEIN_SPORT_10_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_HD
+#EXTINF:-1 tvg-ID="HD10" tvg-name="BEIN_SPORT_10_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/867.ts
-#EXTINF:-1 tvg-ID="SportsHD11" tvg-name="BEIN_SPORT_11_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",BEIN_SPORT_11_HD
+#EXTINF:-1 tvg-ID="HD11" tvg-name="BEIN_SPORT_11_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",BEIN_SPORT_11_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3026.ts
-#EXTINF:-1 tvg-ID="SportsHD12" tvg-name="BEIN_SPORT_12_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",BEIN_SPORT_12_HD
+#EXTINF:-1 tvg-ID="HD12" tvg-name="BEIN_SPORT_12_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",BEIN_SPORT_12_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3027.ts
-#EXTINF:-1 tvg-ID="HD1" tvg-name="bein_Sports_SD1" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",bein_Sports_SD1
+#EXTINF:-1 tvg-ID="beINSports1.qa" tvg-name="bein_Sports_SD1" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",bein_Sports_SD1
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1003.ts
-#EXTINF:-1 tvg-ID="HD2" tvg-name="bein_Sports_SD2" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",bein_Sports_SD2
+#EXTINF:-1 tvg-ID="beINSports2.qa" tvg-name="bein_Sports_SD2" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",bein_Sports_SD2
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1004.ts
-#EXTINF:-1 tvg-ID="HD3" tvg-name="bein_Sports_SD3" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",bein_Sports_SD3
+#EXTINF:-1 tvg-ID="beINSports3.qa" tvg-name="bein_Sports_SD3" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",bein_Sports_SD3
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1005.ts
-#EXTINF:-1 tvg-ID="HD4" tvg-name="bein_Sports_SD4" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",bein_Sports_SD4
+#EXTINF:-1 tvg-ID="beINSports4.qa" tvg-name="bein_Sports_SD4" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",bein_Sports_SD4
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1006.ts
-#EXTINF:-1 tvg-ID="HD5" tvg-name="bein_Sports_SD5" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",bein_Sports_SD5
+#EXTINF:-1 tvg-ID="beINSports5.qa" tvg-name="bein_Sports_SD5" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",bein_Sports_SD5
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1007.ts
-#EXTINF:-1 tvg-ID="HD6" tvg-name="bein_Sports_SD6" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",bein_Sports_SD6
+#EXTINF:-1 tvg-ID="beINSports6.qa" tvg-name="bein_Sports_SD6" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",bein_Sports_SD6
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1008.ts
-#EXTINF:-1 tvg-ID="HD7" tvg-name="bein_Sports_SD7" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",bein_Sports_SD7
+#EXTINF:-1 tvg-ID="beINSports7.qa" tvg-name="bein_Sports_SD7" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",bein_Sports_SD7
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1009.ts
-#EXTINF:-1 tvg-ID="HD8" tvg-name="bein_Sports_SD8" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",bein_Sports_SD8
+#EXTINF:-1 tvg-ID="beINSports8.qa" tvg-name="bein_Sports_SD8" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",bein_Sports_SD8
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1010.ts
-#EXTINF:-1 tvg-ID="HD9" tvg-name="bein_Sports_SD9" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",bein_Sports_SD9
+#EXTINF:-1 tvg-ID="beINSports9.qa" tvg-name="bein_Sports_SD9" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",bein_Sports_SD9
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1011.ts
-#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="bein_Sports_SD10" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",bein_Sports_SD10
+#EXTINF:-1 tvg-ID="" tvg-name="bein_Sports_SD10" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",bein_Sports_SD10
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1012.ts
-#EXTINF:-1 tvg-ID="SportsHD11" tvg-name="bein_Sports_SD11" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",bein_Sports_SD11
+#EXTINF:-1 tvg-ID="" tvg-name="bein_Sports_SD11" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",bein_Sports_SD11
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3028.ts
-#EXTINF:-1 tvg-ID="SportsHD12" tvg-name="bein_Sports_SD12" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",bein_Sports_SD12
+#EXTINF:-1 tvg-ID="" tvg-name="bein_Sports_SD12" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",bein_Sports_SD12
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3029.ts
-#EXTINF:-1 tvg-ID="HD1" tvg-name="BeINsport_HD1_Low" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BeINsport_HD1_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD1_Low" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BeINsport_HD1_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/16.ts
-#EXTINF:-1 tvg-ID="HD2" tvg-name="BeINsport_HD2_Low" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BeINsport_HD2_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD2_Low" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BeINsport_HD2_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/17.ts
-#EXTINF:-1 tvg-ID="HD3" tvg-name="BeINsport_HD3_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BeINsport_HD3_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD3_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BeINsport_HD3_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/18.ts
-#EXTINF:-1 tvg-ID="HD4" tvg-name="BeINsport_HD4_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BeINsport_HD4_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD4_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BeINsport_HD4_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/19.ts
-#EXTINF:-1 tvg-ID="HD5" tvg-name="BeINsport_HD5_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BeINsport_HD5_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD5_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BeINsport_HD5_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/20.ts
-#EXTINF:-1 tvg-ID="HD6" tvg-name="BeINsport_HD6_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BeINsport_HD6_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD6_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BeINsport_HD6_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/21.ts
-#EXTINF:-1 tvg-ID="HD7" tvg-name="BeINsport_HD7_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BeINsport_HD7_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD7_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BeINsport_HD7_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/22.ts
-#EXTINF:-1 tvg-ID="HD8" tvg-name="BeINsport_HD8_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BeINsport_HD8_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD8_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BeINsport_HD8_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/23.ts
-#EXTINF:-1 tvg-ID="HD9" tvg-name="BeINsport_HD9_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BeINsport_HD9_Low
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD9_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BeINsport_HD9_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/24.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD10_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BeINsport_HD10_Low
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/25.ts
-#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports1.qa" tvg-name="BEIN_SPORT_1_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3111.ts
-#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_HD_1080p" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports2.qa" tvg-name="BEIN_SPORT_2_HD_1080p" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3110.ts
-#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports3.qa" tvg-name="BEIN_SPORT_3_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3109.ts
-#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports4.qa" tvg-name="BEIN_SPORT_4_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3108.ts
-#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports5.qa" tvg-name="BEIN_SPORT_5_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3107.ts
-#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports6.qa" tvg-name="BEIN_SPORT_6_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3106.ts
-#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports7.qa" tvg-name="BEIN_SPORT_7_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3105.ts
-#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports8.qa" tvg-name="BEIN_SPORT_8_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3104.ts
-#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD_1080p
+#EXTINF:-1 tvg-ID="beINSports9.qa" tvg-name="BEIN_SPORT_9_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3103.ts
-#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="BEIN_SPORT_10_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_HD_1080p
+#EXTINF:-1 tvg-ID="HD10" tvg-name="BEIN_SPORT_10_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_HD_1080p
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3102.ts
 #EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_4k" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_4k
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/5544.ts
@@ -161,9 +161,9 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/13.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/14.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_15_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_15_hd.png" group-title="BEIN",BEIN_SPORTS_15_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/15.ts
-#EXTINF:-1 tvg-ID="SportsGlobalHD" tvg-name="Bein_Sports" tvg-logo="http://universeiptv.org/pics/beinsportglobal.png" group-title="BEIN",Bein_Sports
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sports" tvg-logo="" group-title="BEIN",Bein_Sports
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/5593.ts
-#EXTINF:-1 tvg-ID="News_ar" tvg-name="BEIN_SPORTS_NEWS" tvg-logo="http://universeiptv.org/pics/beinnews.PNG" group-title="BEIN",BEIN_SPORTS_NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_NEWS" tvg-logo="http://universeiptv.org/pics/beinnews.PNG" group-title="BEIN",BEIN_SPORTS_NEWS
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2219.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_1_HD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_1_HD_(Coming_Soon_World_Cup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2203.ts
@@ -189,96 +189,80 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2212.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2213.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_4_low_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_4_low_(Coming_Soon_World_Cup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2214.ts
-#EXTINF:-1 tvg-ID="MoviesHD1" tvg-name="BEIN_MOVIES_1" tvg-logo="http://universeiptv.org/pics/mov1.PNG" group-title="BEIN",BEIN_MOVIES_1
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MOVIES_1" tvg-logo="http://universeiptv.org/pics/mov1.PNG" group-title="BEIN",BEIN_MOVIES_1
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/868.ts
-#EXTINF:-1 tvg-ID="MoviesHD2" tvg-name="BEIN_MOVIES_2" tvg-logo="http://universeiptv.org/pics/mov2.PNG" group-title="BEIN",BEIN_MOVIES_2
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MOVIES_2" tvg-logo="http://universeiptv.org/pics/mov2.PNG" group-title="BEIN",BEIN_MOVIES_2
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/869.ts
-#EXTINF:-1 tvg-ID="MoviesHD3" tvg-name="BEIN_MOVIES_3" tvg-logo="http://universeiptv.org/pics/mov3PNG.PNG" group-title="BEIN",BEIN_MOVIES_3
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MOVIES_3" tvg-logo="http://universeiptv.org/pics/mov3PNG.PNG" group-title="BEIN",BEIN_MOVIES_3
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1998.ts
-#EXTINF:-1 tvg-ID="MoviesHD4" tvg-name="BEIN_MOVIES_4" tvg-logo="http://universeiptv.org/pics/mov4.PNG" group-title="BEIN",BEIN_MOVIES_4
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MOVIES_4" tvg-logo="http://universeiptv.org/pics/mov4.PNG" group-title="BEIN",BEIN_MOVIES_4
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2107.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_Animaux" tvg-logo="" group-title="BEIN",BEIN_Animaux
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3447.ts
-#EXTINF:-1 tvg-ID="amc" tvg-name="BEIN_Amc" tvg-logo="http://universeiptv.org/pics/amc.PNG" group-title="BEIN",BEIN_Amc
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Amc" tvg-logo="http://universeiptv.org/pics/amc.PNG" group-title="BEIN",BEIN_Amc
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3083.ts
-#EXTINF:-1 tvg-ID="Baby_TV" tvg-name="BEIN_BABY" tvg-logo="http://universeiptv.org/pics/baby_tv_eu.png" group-title="BEIN",BEIN_BABY
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_BABY" tvg-logo="http://universeiptv.org/pics/baby_tv_eu.png" group-title="BEIN",BEIN_BABY
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2727.ts
-#EXTINF:-1 tvg-ID="Baby_TV" tvg-name="BEIN_BABY_(Backup)" tvg-logo="http://universeiptv.org/pics/baby_tv_eu.png" group-title="BEIN",BEIN_BABY_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_BABY_(Backup)" tvg-logo="http://universeiptv.org/pics/baby_tv_eu.png" group-title="BEIN",BEIN_BABY_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6653.ts
-#EXTINF:-1 tvg-ID="Baraem" tvg-name="BEIN_BARAAEM" tvg-logo="http://universeiptv.org/pics/baraaem.PNG" group-title="BEIN",BEIN_BARAAEM
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_BARAAEM" tvg-logo="http://universeiptv.org/pics/baraaem.PNG" group-title="BEIN",BEIN_BARAAEM
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2108.ts
-#EXTINF:-1 tvg-ID="Baraem" tvg-name="BEIN_BARAAEM_(Backup)" tvg-logo="http://universeiptv.org/pics/baraaem.PNG" group-title="BEIN",BEIN_BARAAEM_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6872.ts
-#EXTINF:-1 tvg-ID="Boomerang" tvg-name="BEIN_Boomerang" tvg-logo="http://universeiptv.org/pics/boomerang.PNG" group-title="BEIN",BEIN_Boomerang
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Boomerang" tvg-logo="http://universeiptv.org/pics/boomerang.PNG" group-title="BEIN",BEIN_Boomerang
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3046.ts
-#EXTINF:-1 tvg-ID="Boomerang" tvg-name="BEIN_Boomerang_(Backup)" tvg-logo="http://universeiptv.org/pics/boomerang.PNG" group-title="BEIN",BEIN_Boomerang_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Boomerang_(Backup)" tvg-logo="http://universeiptv.org/pics/boomerang.PNG" group-title="BEIN",BEIN_Boomerang_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6652.ts
-#EXTINF:-1 tvg-ID="CBeebies" tvg-name="BEIN_Cbeebies" tvg-logo="http://universeiptv.org/pics/cbeebies.PNG" group-title="BEIN",BEIN_Cbeebies
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Cbeebies" tvg-logo="http://universeiptv.org/pics/cbeebies.PNG" group-title="BEIN",BEIN_Cbeebies
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/4004.ts
-#EXTINF:-1 tvg-ID="DKids" tvg-name="BEIN_D_Kids" tvg-logo="http://universeiptv.org/pics/discovery-kids.png" group-title="BEIN",BEIN_D_Kids
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_D_Kids" tvg-logo="http://universeiptv.org/pics/discovery-kids.png" group-title="BEIN",BEIN_D_Kids
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6655.ts
-#EXTINF:-1 tvg-ID="DKids" tvg-name="BEIN_D_Kids_(Backup)" tvg-logo="http://universeiptv.org/pics/discovery-kids.png" group-title="BEIN",BEIN_D_Kids_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6873.ts
-#EXTINF:-1 tvg-ID="DLife" tvg-name="BEIN_Discovery_Life" tvg-logo="http://universeiptv.org/pics/dlife.PNG" group-title="BEIN",BEIN_Discovery_Life
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Discovery_Life" tvg-logo="http://universeiptv.org/pics/dlife.PNG" group-title="BEIN",BEIN_Discovery_Life
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3589.ts
-#EXTINF:-1 tvg-ID="DMAX" tvg-name="BEIN_Discovery_MAX" tvg-logo="http://universeiptv.org/pics/dmax.PNG" group-title="BEIN",BEIN_Discovery_MAX
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Discovery_MAX" tvg-logo="http://universeiptv.org/pics/dmax.PNG" group-title="BEIN",BEIN_Discovery_MAX
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3044.ts
-#EXTINF:-1 tvg-ID="DramaHD1" tvg-name="BEIN_Drama" tvg-logo="http://universeiptv.org/pics/bein-drama.png" group-title="BEIN",BEIN_Drama
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Drama" tvg-logo="http://universeiptv.org/pics/bein-drama.png" group-title="BEIN",BEIN_Drama
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6654.ts
-#EXTINF:-1 tvg-ID="DreamWorks" tvg-name="BEIN_DreamWorks" tvg-logo="http://universeiptv.org/pics/dreamwork.PNG" group-title="BEIN",BEIN_DreamWorks
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_DREAMWORK" tvg-logo="http://universeiptv.org/pics/dreamwork.PNG" group-title="BEIN",BEIN_DREAMWORK
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3318.ts
-#EXTINF:-1 tvg-ID="DTX" tvg-name="BEIN_DTX" tvg-logo="http://universeiptv.org/pics/dtx.PNG" group-title="BEIN",BEIN_DTX
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_DTX" tvg-logo="http://universeiptv.org/pics/dtx.PNG" group-title="BEIN",BEIN_DTX
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3667.ts
-#EXTINF:-1 tvg-ID="fatafeat" tvg-name="BEIN_Fatafeat" tvg-logo="http://universeiptv.org/pics/fatafeat.PNG" group-title="BEIN",BEIN_Fatafeat
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fatafeat" tvg-logo="http://universeiptv.org/pics/fatafeat.PNG" group-title="BEIN",BEIN_Fatafeat
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2442.ts
-#EXTINF:-1 tvg-ID="fatafeat" tvg-name="BEIN_Fatafeat_Backup" tvg-logo="http://universeiptv.org/pics/fatafeat.PNG" group-title="BEIN",BEIN_Fatafeat_Backup
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fatafeat_Backup" tvg-logo="http://universeiptv.org/pics/fatafeat.PNG" group-title="BEIN",BEIN_Fatafeat_Backup
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/5483.ts
-#EXTINF:-1 tvg-ID="FOX_HD" tvg-name="BEIN_Fox" tvg-logo="http://universeiptv.org/pics/beinfox.PNG" group-title="BEIN",BEIN_Fox
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fox" tvg-logo="http://universeiptv.org/pics/beinfox.PNG" group-title="BEIN",BEIN_Fox
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3232.ts
-#EXTINF:-1 tvg-ID="FOX_Movies_HD" tvg-name="BEIN_Fox_Movies" tvg-logo="http://universeiptv.org/pics/foxmoviesbein.png" group-title="BEIN",BEIN_Fox_Movies
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fox_Movies" tvg-logo="http://universeiptv.org/pics/foxmoviesbein.png" group-title="BEIN",BEIN_Fox_Movies
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3042.ts
-#EXTINF:-1 tvg-ID="gourmet" tvg-name="BEIN_Gourmet" tvg-logo="http://universeiptv.org/pics/gurme.PNG" group-title="BEIN",BEIN_Gourmet
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Gurmet" tvg-logo="http://universeiptv.org/pics/gurme.PNG" group-title="BEIN",BEIN_Gurmet
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3666.ts
-#EXTINF:-1 tvg-ID="Jeem" tvg-name="BEIN_JEEM" tvg-logo="http://universeiptv.org/pics/gbein.PNG" group-title="BEIN",BEIN_JEEM
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_JEEM" tvg-logo="http://universeiptv.org/pics/gbein.PNG" group-title="BEIN",BEIN_JEEM
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2572.ts
-#EXTINF:-1 tvg-ID="Jeem" tvg-name="BEIN_JEEM_(Backup)" tvg-logo="http://universeiptv.org/pics/gbein.PNG" group-title="BEIN",BEIN_JEEM_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6871.ts
-#EXTINF:-1 tvg-ID="beJUNIOR" tvg-name="BEIN_JUNIOR" tvg-logo="http://universeiptv.org/pics/bejunior.PNG" group-title="BEIN",BEIN_JUNIOR
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_JUNIOR" tvg-logo="http://universeiptv.org/pics/bejunior.PNG" group-title="BEIN",BEIN_JUNIOR
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2610.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_Motrovesion" tvg-logo="http://universeiptv.org/pics/motorbein.PNG" group-title="BEIN",BEIN_Motrovesion
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3445.ts
-#EXTINF:-1 tvg-ID="BS NBA" tvg-name="BEIN_NBA" tvg-logo="http://universeiptv.org/pics/beinnba.PNG" group-title="BEIN",BEIN_NBA
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_NBA" tvg-logo="http://universeiptv.org/pics/beinnba.PNG" group-title="BEIN",BEIN_NBA
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3084.ts
-#EXTINF:-1 tvg-ID="SeriesHD1" tvg-name="BEIN_Series" tvg-logo="http://universeiptv.org/pics/beinseries.PNG" group-title="BEIN",BEIN_Series
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Series" tvg-logo="http://universeiptv.org/pics/beinseries.PNG" group-title="BEIN",BEIN_Series
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3043.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sky_Movies" tvg-logo="http://universeiptv.org/pics/beinskymovies.PNG" group-title="BEIN",BEIN_Sky_Movies
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3446.ts
-#EXTINF:-1 tvg-ID="TCM" tvg-name="BEIN_TCM" tvg-logo="http://universeiptv.org/pics/tcm.PNG" group-title="BEIN",BEIN_TCM
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_TCM" tvg-logo="http://universeiptv.org/pics/tcm.PNG" group-title="BEIN",BEIN_TCM
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3233.ts
-#EXTINF:-1 tvg-ID="TravelChannel" tvg-name="BEIN_Travel_HD" tvg-logo="http://universeiptv.org/pics/travel.PNG" group-title="BEIN",BEIN_Travel_HD
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Travel_HD" tvg-logo="http://universeiptv.org/pics/travel.PNG" group-title="BEIN",BEIN_Travel_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3045.ts
 #EXTINF:-1 tvg-ID="" tvg-name="===ART-CHANNEL===" tvg-logo="" group-title="",===ART-CHANNEL===
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2967.ts
-#EXTINF:-1 tvg-ID="ART Aflam 1" tvg-name="ART-Aflam-1-HD" tvg-logo="http://universeiptv.org/pics/art_aflam_1.png" group-title="ART",ART-Aflam-1-HD
+#EXTINF:-1 tvg-ID="" tvg-name="ART-Aflam-1-HD" tvg-logo="http://universeiptv.org/pics/art_aflam_1.png" group-title="ART",ART-Aflam-1-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1369.ts
-#EXTINF:-1 tvg-ID="ART Aflam 1" tvg-name="ART-Aflam-1-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_aflam_1.png" group-title="ART",ART-Aflam-1-HD_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6874.ts
-#EXTINF:-1 tvg-ID="ART Aflam 2" tvg-name="ART-Aflam-2-HD" tvg-logo="http://universeiptv.org/pics/art_aflam_2.png" group-title="ART",ART-Aflam-2-HD
+#EXTINF:-1 tvg-ID="" tvg-name="ART-Aflam-2-HD" tvg-logo="http://universeiptv.org/pics/art_aflam_2.png" group-title="ART",ART-Aflam-2-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1368.ts
-#EXTINF:-1 tvg-ID="ART Aflam 2" tvg-name="ART-Aflam-2-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_aflam_2.png" group-title="ART",ART-Aflam-2-HD_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6875.ts
-#EXTINF:-1 tvg-ID="ART Cinema" tvg-name="ART-Cinema-HD" tvg-logo="http://universeiptv.org/pics/art_cinema.png" group-title="ART",ART-Cinema-HD
+#EXTINF:-1 tvg-ID="" tvg-name="ART-Cinema-HD" tvg-logo="http://universeiptv.org/pics/art_cinema.png" group-title="ART",ART-Cinema-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1367.ts
-#EXTINF:-1 tvg-ID="ART Cinema" tvg-name="ART-Cinema-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_cinema.png" group-title="ART",ART-Cinema-HD_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6876.ts
-#EXTINF:-1 tvg-ID="Hekayat" tvg-name="ART-Hekayat-HD" tvg-logo="http://universeiptv.org/pics/art_hekayat.png" group-title="ART",ART-Hekayat-HD
+#EXTINF:-1 tvg-ID="" tvg-name="ART-Hekayat-HD" tvg-logo="http://universeiptv.org/pics/art_hekayat.png" group-title="ART",ART-Hekayat-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1365.ts
-#EXTINF:-1 tvg-ID="Hekayat" tvg-name="ART-Hekayat-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_hekayat.png" group-title="ART",ART-Hekayat-HD_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6878.ts
-#EXTINF:-1 tvg-ID="Hekayat 2" tvg-name="ART-Hekayat-2-HD" tvg-logo="http://universeiptv.org/pics/art_hekayat_2.png" group-title="ART",ART-Hekayat-2-HD
+#EXTINF:-1 tvg-ID="" tvg-name="ART-Hekayat-2-HD" tvg-logo="http://universeiptv.org/pics/art_hekayat_2.png" group-title="ART",ART-Hekayat-2-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1366.ts
-#EXTINF:-1 tvg-ID="Hekayat 2" tvg-name="ART-Hekayat-2-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_hekayat_2.png" group-title="ART",ART-Hekayat-2-HD_(Backup)
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6877.ts
 #EXTINF:-1 tvg-ID="" tvg-name="===MBC-HD-CHANNEL===" tvg-logo="" group-title="",===MBC-HD-CHANNEL===
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2968.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MBC-1-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_1_hd.png" group-title="MBC HD",MBC-1-HD
@@ -357,19 +341,19 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2972.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1360.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_2_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_2.png" group-title="AD SPORTS",AD_Sports_2_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1359.ts
-#EXTINF:-1 tvg-ID="AD Sports 3 HD" tvg-name="AD_Sports_3_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_3.png" group-title="AD SPORTS",AD_Sports_3_HD
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_3_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_3.png" group-title="AD SPORTS",AD_Sports_3_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2573.ts
-#EXTINF:-1 tvg-ID="AD Sports 3 HD" tvg-name="AD_Sports_3_HD_(Backup)" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_3.png" group-title="AD SPORTS",AD_Sports_3_HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_3_HD_(Backup)" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_3.png" group-title="AD SPORTS",AD_Sports_3_HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6667.ts
-#EXTINF:-1 tvg-ID="AD Sports 4 HD" tvg-name="AD_Sports_4_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_4.png" group-title="AD SPORTS",AD_Sports_4_HD
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_4_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_4.png" group-title="AD SPORTS",AD_Sports_4_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2574.ts
-#EXTINF:-1 tvg-ID="AD Sports 4 HD" tvg-name="AD_Sports_4_HD_(Backup)" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_4.png" group-title="AD SPORTS",AD_Sports_4_HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_4_HD_(Backup)" tvg-logo="AD_Sports_4_HD_(Backup)" group-title="AD SPORTS",AD_Sports_4_HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6666.ts
-#EXTINF:-1 tvg-ID="AD Sports 5 HD" tvg-name="AD_Sports_5_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_5.png" group-title="AD SPORTS",AD_Sports_5_HD
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_5_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_5.png" group-title="AD SPORTS",AD_Sports_5_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2592.ts
-#EXTINF:-1 tvg-ID="AD Sports 6 HD" tvg-name="AD_Sports_6_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_6.png" group-title="AD SPORTS",AD_Sports_6_HD
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_6_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_6.png" group-title="AD SPORTS",AD_Sports_6_HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2593.ts
-#EXTINF:-1 tvg-ID="Edge Sport HD" tvg-name="AD_Sports_Edge" tvg-logo="http://universeiptv.org/pics/osn/edge.png" group-title="AD SPORTS",AD_Sports_Edge
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_Edge" tvg-logo="http://universeiptv.org/pics/osn/edge.png" group-title="AD SPORTS",AD_Sports_Edge
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/5227.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_Yas" tvg-logo="http://universeiptv.org/pics/osn/yas.png" group-title="AD SPORTS",AD_Sports_Yas
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/5228.ts
@@ -385,7 +369,7 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/33.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/978.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-ALYoum-HD_(Source3)" tvg-logo="http://universeiptv.org/pics/osn/YAWm.png" group-title="OSN",OSN-ALYoum-HD_(Source3)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/979.ts
-#EXTINF:-1 tvg-ID="AnimalPlanetHD" tvg-name="OSN-Animal-Planet-HD" tvg-logo="http://universeiptv.org/pics/osn/APL.png" group-title="OSN",OSN-Animal-Planet-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Animal-Planet-HD" tvg-logo="http://universeiptv.org/pics/osn/APL.png" group-title="OSN",OSN-Animal-Planet-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/59.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-BBC-First" tvg-logo="http://universeiptv.org/pics/osn/BBcfirst.png" group-title="OSN",OSN-BBC-First
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3302.ts
@@ -443,15 +427,15 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3051.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2443.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN_Food_Network" tvg-logo="http://universeiptv.org/pics/osn/foodnetwork.png" group-title="OSN",OSN_Food_Network
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2728.ts
-#EXTINF:-1 tvg-ID="FoxActMovHD" tvg-name="OSN_Fox_Action" tvg-logo="http://universeiptv.org/pics/osn/foxaction.PNG" group-title="OSN",OSN_Fox_Action
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Fox_Action" tvg-logo="http://universeiptv.org/pics/osn/foxaction.PNG" group-title="OSN",OSN_Fox_Action
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2581.ts
-#EXTINF:-1 tvg-ID="FoxFamHD" tvg-name="OSN_Fox_Family" tvg-logo="http://universeiptv.org/pics/osn/foxfamily.PNG" group-title="OSN",OSN_Fox_Family
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Fox_Family" tvg-logo="http://universeiptv.org/pics/osn/foxfamily.PNG" group-title="OSN",OSN_Fox_Family
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2580.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Fox-News" tvg-logo="http://universeiptv.org/pics/osn/FoXNews.png" group-title="OSN",OSN-Fox-News
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3352.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Fuel-TV" tvg-logo="http://universeiptv.org/pics/osn/FUEl.png" group-title="OSN",OSN-Fuel-TV
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3228.ts
-#EXTINF:-1 tvg-ID="FXHD" tvg-name="OSN-FX-HD" tvg-logo="http://universeiptv.org/pics/osn/fxhd.PNG" group-title="OSN",OSN-FX-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-FX-HD" tvg-logo="http://universeiptv.org/pics/osn/fxhd.PNG" group-title="OSN",OSN-FX-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3047.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-GMA-Life-TV" tvg-logo="http://universeiptv.org/pics/osn/gmalife.PNG" group-title="OSN",OSN-GMA-Life-TV
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3457.ts
@@ -469,39 +453,39 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3020.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2614.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-MBC-Drama" tvg-logo="http://universeiptv.org/pics/osn/mbc_ae_drama.png" group-title="OSN",OSN-MBC-Drama
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/39.ts
-#EXTINF:-1 tvg-ID="OSN Movies HD" tvg-name="OSN-Movies-HD" tvg-logo="http://universeiptv.org/pics/osn/movies.png" group-title="OSN",OSN-Movies-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-HD" tvg-logo="http://universeiptv.org/pics/osn/movies.png" group-title="OSN",OSN-Movies-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/48.ts
-#EXTINF:-1 tvg-ID="OSN Movies HD" tvg-name="OSN-Movies-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movies.png" group-title="OSN",OSN-Movies-HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movies.png" group-title="OSN",OSN-Movies-HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6612.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-2-HD" tvg-logo="http://universeiptv.org/pics/osn/mov2.png" group-title="OSN",OSN-Movies-2-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/60.ts
-#EXTINF:-1 tvg-ID="OSN Movies Action HD" tvg-name="OSN-Movies-Action-HD" tvg-logo="http://universeiptv.org/pics/osn/action.png" group-title="OSN",OSN-Movies-Action-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Action-HD" tvg-logo="http://universeiptv.org/pics/osn/action.png" group-title="OSN",OSN-Movies-Action-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/52.ts
-#EXTINF:-1 tvg-ID="OSN Movies Action HD" tvg-name="OSN-Movies-Action-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/action.png" group-title="OSN",OSN-Movies-Action-HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Action-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/action.png" group-title="OSN",OSN-Movies-Action-HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6609.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Action-2-HD" tvg-logo="http://universeiptv.org/pics/osn/action2.png" group-title="OSN",OSN-Movies-Action-2-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/53.ts
-#EXTINF:-1 tvg-ID="OSN Movies Comedy HD" tvg-name="OSN-Movies-Comedy-HD" tvg-logo="http://universeiptv.org/pics/osn/movcomedy.png" group-title="OSN",OSN-Movies-Comedy-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Comedy-HD" tvg-logo="http://universeiptv.org/pics/osn/movcomedy.png" group-title="OSN",OSN-Movies-Comedy-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/51.ts
-#EXTINF:-1 tvg-ID="OSN Movies Family HD" tvg-name="OSN-Movies-Family" tvg-logo="http://universeiptv.org/pics/osn/movfamily.png" group-title="OSN",OSN-Movies-Family
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Family" tvg-logo="http://universeiptv.org/pics/osn/movfamily.png" group-title="OSN",OSN-Movies-Family
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2611.ts
-#EXTINF:-1 tvg-ID="OSN Movies Family HD" tvg-name="OSN-Movies-Family_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfamily.png" group-title="OSN",OSN-Movies-Family_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Family_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfamily.png" group-title="OSN",OSN-Movies-Family_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6614.ts
-#EXTINF:-1 tvg-ID="OSN Movies Festival HD" tvg-name="OSN-Movies-Festival-HD" tvg-logo="http://universeiptv.org/pics/osn/movfestival.png" group-title="OSN",OSN-Movies-Festival-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Festival-HD" tvg-logo="http://universeiptv.org/pics/osn/movfestival.png" group-title="OSN",OSN-Movies-Festival-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/49.ts
-#EXTINF:-1 tvg-ID="OSN Movies Festival HD" tvg-name="OSN-Movies-Festival-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfestival.png" group-title="OSN",OSN-Movies-Festival-HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Festival-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfestival.png" group-title="OSN",OSN-Movies-Festival-HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6611.ts
-#EXTINF:-1 tvg-ID="OSN Movies First HD" tvg-name="OSN-Movies-First-HD" tvg-logo="http://universeiptv.org/pics/osn/movfirst.png" group-title="OSN",OSN-Movies-First-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-First-HD" tvg-logo="http://universeiptv.org/pics/osn/movfirst.png" group-title="OSN",OSN-Movies-First-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/47.ts
-#EXTINF:-1 tvg-ID="OSN Movies First HD" tvg-name="OSN-Movies-First-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfirst.png" group-title="OSN",OSN-Movies-First-HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-First-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfirst.png" group-title="OSN",OSN-Movies-First-HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6613.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-First-2-HD" tvg-logo="http://universeiptv.org/pics/osn/movfirst2.png" group-title="OSN",OSN-Movies-First-2-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3019.ts
-#EXTINF:-1 tvg-ID="OSN Movies Kids HD" tvg-name="OSN-Movies-Kids-HD" tvg-logo="http://universeiptv.org/pics/osn/movkids.png" group-title="OSN",OSN-Movies-Kids-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Kids-HD" tvg-logo="http://universeiptv.org/pics/osn/movkids.png" group-title="OSN",OSN-Movies-Kids-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/54.ts
-#EXTINF:-1 tvg-ID="OSN Movies Thriller HD" tvg-name="OSN-Movies-Thriller-HD" tvg-logo="http://universeiptv.org/pics/osn/thriller.png" group-title="OSN",OSN-Movies-Thriller-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Thriller-HD" tvg-logo="http://universeiptv.org/pics/osn/thriller.png" group-title="OSN",OSN-Movies-Thriller-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/50.ts
-#EXTINF:-1 tvg-ID="OSN Movies Thriller HD" tvg-name="OSN-Movies-Thriller-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/thriller.png" group-title="OSN",OSN-Movies-Thriller-HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Thriller-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/thriller.png" group-title="OSN",OSN-Movies-Thriller-HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6610.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Thriller-2" tvg-logo="http://universeiptv.org/pics/osn/thriller2.png" group-title="OSN",OSN-Movies-Thriller-2
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3052.ts
@@ -515,11 +499,11 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3270.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3351.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-Music-Now" tvg-logo="http://universeiptv.org/pics/osn/musicNOW.png" group-title="OSN",OSN-Music-Now
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3271.ts
-#EXTINF:-1 tvg-ID="NatGeo_HD" tvg-name="OSN-National-Geographic" tvg-logo="http://universeiptv.org/pics/osn/NatGeO.png" group-title="OSN",OSN-National-Geographic
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-National-Geographic" tvg-logo="http://universeiptv.org/pics/osn/NatGeO.png" group-title="OSN",OSN-National-Geographic
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3276.ts
-#EXTINF:-1 tvg-ID="NatGeoPeople_HD" tvg-name="OSN-Nat-Geo-People" tvg-logo="http://universeiptv.org/pics/osn/NAtpeople.png" group-title="OSN",OSN-Nat-Geo-People
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Nat-Geo-People" tvg-logo="http://universeiptv.org/pics/osn/NAtpeople.png" group-title="OSN",OSN-Nat-Geo-People
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2473.ts
-#EXTINF:-1 tvg-ID="NatGeoWild_HD" tvg-name="OSN-Nat-Geo-Wild-HD" tvg-logo="http://universeiptv.org/pics/osn/Natwild.png" group-title="OSN",OSN-Nat-Geo-Wild-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Nat-Geo-Wild-HD" tvg-logo="http://universeiptv.org/pics/osn/Natwild.png" group-title="OSN",OSN-Nat-Geo-Wild-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/46.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-News" tvg-logo="http://universeiptv.org/pics/osn/Osnnews.png" group-title="OSN",OSN-News
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3018.ts
@@ -539,7 +523,7 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2667.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2668.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN_Ott_Series" tvg-logo="http://universeiptv.org/pics/osn/osnmacw.PNG" group-title="OSN",OSN_Ott_Series
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2666.ts
-#EXTINF:-1 tvg-ID="OutdoorChannel" tvg-name="OSN-Outdoor" tvg-logo="http://universeiptv.org/pics/osn/outdoor.PNG" group-title="OSN",OSN-Outdoor
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Outdoor" tvg-logo="http://universeiptv.org/pics/osn/outdoor.PNG" group-title="OSN",OSN-Outdoor
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3017.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN_Onemacw" tvg-logo="http://universeiptv.org/pics/osn/osnmacw.PNG" group-title="OSN",OSN_Onemacw
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3643.ts
@@ -591,9 +575,9 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2612.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3642.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN_Sports_Cricket" tvg-logo="http://universeiptv.org/pics/osn/sportCRIket.png" group-title="OSN",OSN_Sports_Cricket
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2665.ts
-#EXTINF:-1 tvg-ID="Star_Movies_HD" tvg-name="OSN-Star-Movies-HD" tvg-logo="http://universeiptv.org/pics/osn/starmovies.png" group-title="OSN",OSN-Star-Movies-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Star-Movies-HD" tvg-logo="http://universeiptv.org/pics/osn/starmovies.png" group-title="OSN",OSN-Star-Movies-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/44.ts
-#EXTINF:-1 tvg-ID="Star_World_HD" tvg-name="OSN-Star-World-HD" tvg-logo="http://universeiptv.org/pics/osn/STarWorld.png" group-title="OSN",OSN-Star-World-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Star-World-HD" tvg-logo="http://universeiptv.org/pics/osn/STarWorld.png" group-title="OSN",OSN-Star-World-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/43.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-SUNDANCE-TV" tvg-logo="http://universeiptv.org/pics/osn/SUN.png" group-title="OSN",OSN-SUNDANCE-TV
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3350.ts
@@ -609,19 +593,19 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3227.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2032.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-WWE_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/WWE.png" group-title="OSN",OSN-WWE_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6650.ts
-#EXTINF:-1 tvg-ID="OSN Ya Hala HD" tvg-name="OSN-YaHala--HD" tvg-logo="http://universeiptv.org/pics/osn/OYA.png" group-title="OSN",OSN-YaHala--HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YaHala--HD" tvg-logo="http://universeiptv.org/pics/osn/OYA.png" group-title="OSN",OSN-YaHala--HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/38.ts
-#EXTINF:-1 tvg-ID="OSN Ya Hala HD" tvg-name="OSN-YaHala--HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/OYA.png" group-title="OSN",OSN-YaHala--HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YaHala--HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/OYA.png" group-title="OSN",OSN-YaHala--HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6607.ts
-#EXTINF:-1 tvg-ID="OSN Ya Hala Al Oula" tvg-name="OSN-YaHala-First-HD" tvg-logo="http://universeiptv.org/pics/osn/OYH1.png" group-title="OSN",OSN-YaHala-First-HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YaHala-First-HD" tvg-logo="http://universeiptv.org/pics/osn/OYH1.png" group-title="OSN",OSN-YaHala-First-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/37.ts
-#EXTINF:-1 tvg-ID="OSN Ya Hala Al Oula" tvg-name="OSN-YaHala-First-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/OYH1.png" group-title="OSN",OSN-YaHala-First-HD_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YaHala-First-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/OYH1.png" group-title="OSN",OSN-YaHala-First-HD_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6608.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-YaHala-First-2-HD" tvg-logo="http://universeiptv.org/pics/osn/OY-2.png" group-title="OSN",OSN-YaHala-First-2-HD
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3016.ts
-#EXTINF:-1 tvg-ID="OSN Yahala Cinema HD" tvg-name="OSN-YAHALA-CINEMA" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YAHALA-CINEMA" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2043.ts
-#EXTINF:-1 tvg-ID="OSN Yahala Cinema HD" tvg-name="OSN-YAHALA-CINEMA_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA_(Backup)
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YAHALA-CINEMA_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA_(Backup)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6606.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA1" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA1
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1565.ts
@@ -703,13 +687,13 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1257.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2315.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Max" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_max.png" group-title="MBC-GROUP",AR:MBC_Max
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1256.ts
-#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 1" tvg-name="AR:Mbc_Pro_Sport_1" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport1.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_1
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Mbc_Pro_Sport_1" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport1.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_1
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/901.ts
-#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 1" tvg-name="AR:MBC_PRO_SP_1_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport1.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_1_(BACKUP)
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_PRO_SP_1_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport1.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_1_(BACKUP)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2997.ts
-#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 2" tvg-name="AR:Mbc_Pro_Sport_2" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport2.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_2
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Mbc_Pro_Sport_2" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport2.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_2
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/902.ts
-#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 2" tvg-name="AR:MBC_PRO_SP_2_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport2.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_2_(BACKUP)
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_PRO_SP_2_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport2.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_2_(BACKUP)
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2996.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:Mbc_Pro_Sport_3" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport3.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_3
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/903.ts
@@ -979,7 +963,7 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1301.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1865.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR_NOUR-KIDS" tvg-logo="http://universeiptv.org/pics/arabicfta/nour_kids.png" group-title="EGYPT",AR_NOUR-KIDS
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1829.ts
-#EXTINF:-1 tvg-ID="CartoonNetworkAR" tvg-name="AR:Cartoon_Network_Arabic" tvg-logo="http://universeiptv.org/pics/mbc/cartoon_network_global.png" group-title="EGYPT",AR:Cartoon_Network_Arabic
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Cartoon_Network_Arabic" tvg-logo="http://universeiptv.org/pics/mbc/cartoon_network_global.png" group-title="EGYPT",AR:Cartoon_Network_Arabic
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1389.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:CNN" tvg-logo="http://universeiptv.org/pics/arabicfta/cnn.png" group-title="EGYPT",AR:CNN
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1421.ts
@@ -1501,8 +1485,6 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1309.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1787.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:Iqraa" tvg-logo="http://universeiptv.org/pics/arabicfta/iqraa.png" group-title="ISLAMIC",AR:Iqraa
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1278.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Menhag_Al_Neboaa" tvg-logo="http://universeiptv.org/pics/arabicfta/menhagneboaa.png" group-title="ISLAMIC",AR:Menhag_Al_Neboaa
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6870.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR_The_Savior" tvg-logo="" group-title="ISLAMIC",AR_The_Savior
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2364.ts
 #EXTINF:-1 tvg-ID="" tvg-name="===IRAQ-CHANNEL===" tvg-logo="" group-title="",===IRAQ-CHANNEL===
@@ -2973,8 +2955,6 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/910.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2454.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:Ora_News" tvg-logo="" group-title="ALBANIA",ALB:Ora_News
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:Plus_HD" tvg-logo="" group-title="ALBANIA",ALB:Plus_HD
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6845.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:RRokum" tvg-logo="" group-title="ALBANIA",ALB:RRokum
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2595.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:RTK" tvg-logo="" group-title="ALBANIA",ALB:RTK
@@ -2989,14 +2969,6 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2450.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2447.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:RTV_21_Toksor" tvg-logo="" group-title="ALBANIA",ALB:RTV_21_Toksor
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:SKY_7_HD" tvg-logo="" group-title="ALBANIA",ALB:SKY_7_HD
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:Sky_Aksion" tvg-logo="" group-title="ALBANIA",ALB:Sky_Aksion
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:Sky_Drame" tvg-logo="" group-title="ALBANIA",ALB:Sky_Drame
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:Sky_Komedi" tvg-logo="" group-title="ALBANIA",ALB:Sky_Komedi
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6847.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:Supersonic_Tv" tvg-logo="" group-title="ALBANIA",ALB:Supersonic_Tv
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/2591.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:Super_Sport_1" tvg-logo="" group-title="ALBANIA",ALB:Super_Sport_1
@@ -3029,8 +3001,6 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/540.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/539.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:TRING_SHQIP" tvg-logo="" group-title="ALBANIA",ALB:TRING_SHQIP
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/538.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALB:Tring_Smile" tvg-logo="" group-title="ALBANIA",ALB:Tring_Smile
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6843.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:TRING_Sport_1" tvg-logo="" group-title="ALBANIA",ALB:TRING_Sport_1
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/527.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ALB:TRING_Sport_2" tvg-logo="" group-title="ALBANIA",ALB:TRING_Sport_2
@@ -4035,8 +4005,6 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6709.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3166.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:Cartoon_Network_Nordic" tvg-logo="" group-title="SCANDINAVIA",SC:Cartoon_Network_Nordic
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/4208.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SC:Cartoon-Network-Sweden" tvg-logo="" group-title="SCANDINAVIA",SC:Cartoon-Network-Sweden
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6733.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:Comedy-Central-Denemark" tvg-logo="" group-title="SCANDINAVIA",SC:Comedy-Central-Denemark
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6708.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:Discovery-Channel-Norge" tvg-logo="" group-title="SCANDINAVIA",SC:Discovery-Channel-Norge
@@ -4053,8 +4021,6 @@ http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/3170.ts
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/4766.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:Disney_XD_Denemark" tvg-logo="" group-title="SCANDINAVIA",SC:Disney_XD_Denemark
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6688.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SC:Disney-XD-Sweden" tvg-logo="" group-title="SCANDINAVIA",SC:Disney-XD-Sweden
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6734.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:DK_4" tvg-logo="" group-title="SCANDINAVIA",SC:DK_4
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6635.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:DR_1" tvg-logo="" group-title="SCANDINAVIA",SC:DR_1
@@ -4955,8 +4921,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5496.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5490.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Captain-America-Civil_War_(3D)" tvg-logo="http://universeiptv.org/3dpics/captinamericacivil.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Captain-America-Civil_War_(3D)
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/3483.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Despicable-Me-3-2017-3D" tvg-logo="http://universeiptv.org/movpics/3469046.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Despicable-Me-3-2017-3D
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6730.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Doctor-Strange_(3D)" tvg-logo="http://universeiptv.org/3dpics/drst_.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Doctor-Strange_(3D)
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/3600.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Exodus-Gods-and-Kings-3D" tvg-logo="http://universeiptv.org/movpics/1528100.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Exodus-Gods-and-Kings-3D
@@ -5001,8 +4965,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/3625.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/4565.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Smurfs-The-Lost-Village-3D" tvg-logo="http://universeiptv.org/movpics/2398241.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Smurfs-The-Lost-Village-3D
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5549.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man-Homecoming-2017-3D" tvg-logo="http://universeiptv.org/movpics/2250912.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Spider-Man-Homecoming-2017-3D
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6731.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Star-Trek_Beyond_(3D)" tvg-logo="http://universeiptv.org/3dpics/startrekbeyondAL_.jpg" group-title="3D Movies EN ( Arabic Subtitles )",Star-Trek_Beyond_(3D)
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/3486.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="The-Angry-Birds_(3D)" tvg-logo="http://universeiptv.org/3dpics/theangrybirdsAL_.jpg" group-title="3D Movies EN ( Arabic Subtitles )",The-Angry-Birds_(3D)
@@ -7615,246 +7577,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6312.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6308.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Under-the-Dome-S03E13" tvg-logo="http://universeiptv.org/seriespic/Under_the_Dome_season_3_DVD.jpg" group-title="Under-The-Dome_Season-3",Under-the-Dome-S03E13
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6318.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="===============SERIES-(EN-FR_Subtitles)=================" tvg-logo="" group-title="",===============SERIES-(EN-FR_Subtitles)=================
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6735.ts
-#EXTINF:-1 tvg-ID="" tvg-name="==Game-of-Thrones-Season_1-EN-FR==" tvg-logo="" group-title="",==Game-of-Thrones-Season_1-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6736.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E01_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E01_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6763.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E02_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E02_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6760.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E03_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E03_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6758.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E04_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E04_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6757.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E05_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E05_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6754.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E06_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E06_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6755.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E07_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E07_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6756.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E08_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E08_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6762.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E09_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E09_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6759.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S01E10_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season1 ( EN and FR Subtitles )",Game-of-Thrones-S01E10_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6761.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==Game-of-Thrones-Season_2-EN-FR==" tvg-logo="" group-title="",==Game-of-Thrones-Season_2-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6737.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E01_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E01_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6769.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E02_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E02_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6768.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E03_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E03_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6770.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E04_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E04_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6764.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E05_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E05_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6771.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E06_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E06_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6772.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E07_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E07_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6773.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E08_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E08_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6767.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E09_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E09_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6765.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S02E10_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season2 ( EN and FR Subtitles )",Game-of-Thrones-S02E10_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6766.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==Game-of-Thrones-Season_3-EN-FR==" tvg-logo="" group-title="",==Game-of-Thrones-Season_3-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6738.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E01_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E01_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6779.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E02_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E02_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6783.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E03_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E03_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6775.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E04_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E04_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6778.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E05_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E05_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6782.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E06_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E06_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6781.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E07_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E07_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6780.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E08_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E08_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6776.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E09_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E09_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6774.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S03E10_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season3 ( EN and FR Subtitles )",Game-of-Thrones-S03E10_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6777.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==Game-of-Thrones-Season_4-EN-FR==" tvg-logo="" group-title="",==Game-of-Thrones-Season_4-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6739.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E01_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E01_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6788.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E02_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E02_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6784.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E03_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E03_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6793.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E04_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E04_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6791.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E05_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E05_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6787.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E06_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E06_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6792.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E07_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E07_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6785.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E08_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E08_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6789.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E09_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E09_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6786.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S04E10_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season4 ( EN and FR Subtitles )",Game-of-Thrones-S04E10_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6790.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==Game-of-Thrones-Season_5-EN-FR==" tvg-logo="" group-title="",==Game-of-Thrones-Season_5-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6740.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E01_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E01_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6802.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E02_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E02_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6796.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E03_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E03_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6795.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E04_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E04_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6794.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E05_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E05_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6797.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E06_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E06_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6798.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E07_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E07_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6803.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E08_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E08_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6800.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E09_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E09_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6801.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S05E10_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season5 ( EN and FR Subtitles )",Game-of-Thrones-S05E10_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6799.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==Game-of-Thrones-Season_6-EN-FR==" tvg-logo="" group-title="",==Game-of-Thrones-Season_6-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6741.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E01_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E01_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6813.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E02_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E02_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6809.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E03_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E03_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6812.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E04_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E04_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6804.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E05_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E05_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6808.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E06_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E06_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6810.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E07_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E07_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6805.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E08_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E08_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6806.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E09_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E09_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6807.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Game-of-Thrones-S06E10_EN_FR" tvg-logo="" group-title="Game-of-Thrones_Season6 ( EN and FR Subtitles )",Game-of-Thrones-S06E10_EN_FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6811.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==The-Black-List-Season_1-EN-FR==" tvg-logo="" group-title="",==The-Black-List-Season_1-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6749.ts
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E01_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E01_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6838.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E02_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E02_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6830.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E03_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E03_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6828.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E04_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E04_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6836.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E05_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E05_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6831.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E06_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E06_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6832.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E07_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E07_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6824.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E08_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E08_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6820.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E09_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E09_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6826.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E10_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E10_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6835.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E11_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E11_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6837.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E12_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E12_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6834.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E13_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E13_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6825.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E14_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E14_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6821.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E15_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E15_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6841.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E16_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E16_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6822.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E17_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E17_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6833.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E18_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E18_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6829.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E19_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E19_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6827.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E20_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E20_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6823.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E21_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E21_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6839.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S01E22_EN-FR" tvg-logo="" group-title="The-Black-List_Season-1 ( EN and FR Subtitles )",The-Blacklist-S01E22_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6840.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==The-Black-List-Season_2-EN-FR==" tvg-logo="" group-title="",==The-Black-List-Season_2-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6750.ts
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E01_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E01_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6858.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E02_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E02_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6867.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E03_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E03_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6848.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E04_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E04_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6853.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E05_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E05_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6857.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E06_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E06_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6866.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E07_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E07_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6851.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E08_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E08_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6869.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E09_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E09_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6864.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E10_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E10_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6859.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E11_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E11_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6863.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E12_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E12_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6854.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E13_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E13_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6868.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E14_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E14_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6865.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E15_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E15_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6855.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E16_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E16_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6850.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E17_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E17_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6849.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E18_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E18_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6856.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E19_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E19_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6862.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E20_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E20_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6860.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E21_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E21_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6852.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Blacklist-S02E22_EN-FR" tvg-logo="" group-title="The-Black-List_Season-2 ( EN and FR Subtitles )",The-Blacklist-S02E22_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6861.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="==The-Walking-Dead-Season_1-EN-FR==" tvg-logo="" group-title="",==The-Walking-Dead-Season_1-EN-FR==
-http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/6742.ts
-#EXTINF:-1 tvg-ID="" tvg-name="The-Walking-Dead-S01E01_EN-FR" tvg-logo="" group-title="The-Walking-Dead_Season-1 ( EN and FR Subtitles )",The-Walking-Dead-S01E01_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6816.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Walking-Dead-S01E02_EN-FR" tvg-logo="" group-title="The-Walking-Dead_Season-1 ( EN and FR Subtitles )",The-Walking-Dead-S01E02_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6815.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Walking-Dead-S01E03_EN-FR" tvg-logo="" group-title="The-Walking-Dead_Season-1 ( EN and FR Subtitles )",The-Walking-Dead-S01E03_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6814.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Walking-Dead-S01E04_EN-FR" tvg-logo="" group-title="The-Walking-Dead_Season-1 ( EN and FR Subtitles )",The-Walking-Dead-S01E04_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6819.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Walking-Dead-S01E05_EN-FR" tvg-logo="" group-title="The-Walking-Dead_Season-1 ( EN and FR Subtitles )",The-Walking-Dead-S01E05_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6817.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The-Walking-Dead-S01E06_EN-FR" tvg-logo="" group-title="The-Walking-Dead_Season-1 ( EN and FR Subtitles )",The-Walking-Dead-S01E06_EN-FR
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6818.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="=================VOD-EN-(Arabic-Subtitles)=================" tvg-logo="" group-title="",=================VOD-EN-(Arabic-Subtitles)=================
 http://universeiptv.com:8000/live/Ahmed%20Rizk/ahmedrizkca20/1708.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Transformers-1" tvg-logo="http://universeiptv.org/movpics/trans1.jpg" group-title="VOD EN ( Arabic Subtitles )",Transformers-1
@@ -7991,14 +7713,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/4780.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5357.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Ghost-Rider-2-Spirit-Of-Vengeance" tvg-logo="http://universeiptv.org/movpics/1071875.jpg" group-title="VOD EN ( Arabic Subtitles )",Ghost-Rider-2-Spirit-Of-Vengeance
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5364.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Boo-1-A-Madea-Halloween-2016" tvg-logo="http://universeiptv.org/movpics/5325452.jpg" group-title="VOD EN ( Arabic Subtitles )",Boo-1-A-Madea-Halloween-2016
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6716.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Boo-2-A-Madea-Halloween-2017_CAM" tvg-logo="http://universeiptv.org/movpics/6217804.jpg" group-title="VOD EN ( Arabic Subtitles )",Boo-2-A-Madea-Halloween-2017_CAM
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6710.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Kingsman--The-secret-Service-2014" tvg-logo="http://universeiptv.org/movpics/2802144.jpg" group-title="VOD EN ( Arabic Subtitles )",Kingsman--The-secret-Service-2014
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6732.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Kingsman-The-Golden-Circle-2017_CAM" tvg-logo="http://universeiptv.org/movpics/4649466.jpg" group-title="VOD EN ( Arabic Subtitles )",Kingsman-The-Golden-Circle-2017_CAM
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6711.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Planet-Of-the-Apes" tvg-logo="http://universeiptv.org/movpics/0133152.jpg" group-title="VOD EN ( Arabic Subtitles )",Planet-Of-the-Apes
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5178.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Rise-of-The-Planet-Of-the-Apes" tvg-logo="http://universeiptv.org/movpics/1318514.jpg" group-title="VOD EN ( Arabic Subtitles )",Rise-of-The-Planet-Of-the-Apes
@@ -8149,8 +7863,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/3438.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/4387.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Batman-VS-Superman-Dawn-of-Justice" tvg-logo="http://universeiptv.org/movpics/manofsteel2_AL_.jpg" group-title="VOD EN ( Arabic Subtitles )",Batman-VS-Superman-Dawn-of-Justice
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/4383.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Justice-League-2017_CAM" tvg-logo="http://universeiptv.org/movpics/0974015.jpg" group-title="VOD EN ( Arabic Subtitles )",Justice-League-2017_CAM
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6718.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="The-Conjuring-1" tvg-logo="http://universeiptv.org/movpics/conjuring1_AL_.jpg" group-title="VOD EN ( Arabic Subtitles )",The-Conjuring-1
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/4392.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="The-Conjuring-2" tvg-logo="http://universeiptv.org/movpics/conjuring2_AL_.jpg" group-title="VOD EN ( Arabic Subtitles )",The-Conjuring-2
@@ -8339,34 +8051,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5361.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5365.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="1408" tvg-logo="http://universeiptv.org/movpics/0450385.jpg" group-title="VOD EN ( Arabic Subtitles )",1408
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5431.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="American-Assassin-2017" tvg-logo="http://universeiptv.org/movpics/1961175.jpg" group-title="VOD EN ( Arabic Subtitles )",American-Assassin-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6727.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Automata-2014" tvg-logo="http://universeiptv.org/movpics/1971325.jpg" group-title="VOD EN ( Arabic Subtitles )",Automata-2014
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6719.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Behind-The-Blue-Door-2016" tvg-logo="http://universeiptv.org/movpics/6233882.jpg" group-title="VOD EN ( Arabic Subtitles )",Behind-The-Blue-Door-2016
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6722.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Escape-Plan-2013" tvg-logo="http://universeiptv.org/movpics/1211956.jpg" group-title="VOD EN ( Arabic Subtitles )",Escape-Plan-2013
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6717.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Geostorm-2017_CAM" tvg-logo="http://universeiptv.org/movpics/geostorm.jpg" group-title="VOD EN ( Arabic Subtitles )",Geostorm-2017_CAM
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6712.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Hangman-2017" tvg-logo="http://universeiptv.org/movpics/3011960.jpg" group-title="VOD EN ( Arabic Subtitles )",Hangman-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6726.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Mariah-Careys-All-I-Want-for-Christmas-Is-You-2017" tvg-logo="http://universeiptv.org/movpics/6678950.jpg" group-title="VOD EN ( Arabic Subtitles )",Mariah-Careys-All-I-Want-for-Christmas-Is-You-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6714.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Radius-2017" tvg-logo="http://universeiptv.org/movpics/6097798.jpg" group-title="VOD EN ( Arabic Subtitles )",Radius-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6720.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Rendel-2017" tvg-logo="http://universeiptv.org/movpics/3881026.jpg" group-title="VOD EN ( Arabic Subtitles )",Rendel-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6723.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Solomon-kane-2009" tvg-logo="http://universeiptv.org/movpics/0970452.jpg" group-title="VOD EN ( Arabic Subtitles )",Solomon-kane-2009
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6715.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The-Little-Vampire-2017" tvg-logo="http://universeiptv.org/movpics/4729560.jpg" group-title="VOD EN ( Arabic Subtitles )",The-Little-Vampire-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6728.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The-Son-of-Bigfoot-2017" tvg-logo="http://universeiptv.org/movpics/5715410.jpg" group-title="VOD EN ( Arabic Subtitles )",The-Son-of-Bigfoot-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6721.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The-Star-2017_CAM" tvg-logo="http://universeiptv.org/movpics/4587656.jpg" group-title="VOD EN ( Arabic Subtitles )",The-Star-2017_CAM
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6713.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Unwanted-2017" tvg-logo="http://universeiptv.org/movpics/6074486.jpg" group-title="VOD EN ( Arabic Subtitles )",Unwanted-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6729.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="London-Has-Fallen" tvg-logo="http://universeiptv.org/movpics/3300542.jpg" group-title="VOD EN ( Arabic Subtitles )",London-Has-Fallen
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5438.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Olympus-Has-Fallen" tvg-logo="http://universeiptv.org/movpics/2302755.jpg" group-title="VOD EN ( Arabic Subtitles )",Olympus-Has-Fallen
@@ -9111,8 +8795,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/4551.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/2863.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:Taht-Eltarabiza" tvg-logo="http://universeiptv.org/movpics/taht.jpg" group-title="VOD ARABIC",VOD_AR:Taht-Eltarabiza
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/5185.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:The-Nile-Hilton-Incident-2017" tvg-logo="http://universeiptv.org/movpics/nile-hilton.jpg" group-title="VOD ARABIC",VOD_AR:The-Nile-Hilton-Incident-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6725.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:The-Originals" tvg-logo="http://universeiptv.org/movpics/originals.jpg" group-title="VOD ARABIC",VOD_AR:The-Originals
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6249.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:Vitamin" tvg-logo="http://universeiptv.org/movpics/Vitamin.jpg" group-title="VOD ARABIC",VOD_AR:Vitamin
@@ -9125,8 +8807,6 @@ http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/2865.mp4
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/2866.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:World_war_3" tvg-logo="http://universeiptv.org/movpics/World-War.jpg" group-title="VOD ARABIC",VOD_AR:World_war_3
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/2867.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:Yabany-Asly-2017" tvg-logo="http://universeiptv.org/movpics/yabany.jpg" group-title="VOD ARABIC",VOD_AR:Yabany-Asly-2017
-http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6724.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:Yathadi-Yat3adi" tvg-logo="http://universeiptv.org/movpics/yathadyyat3dy.jpg" group-title="VOD ARABIC",VOD_AR:Yathadi-Yat3adi
 http://universeiptv.com:8000/movie/Ahmed%20Rizk/ahmedrizkca20/6246.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_AR:Yeg3alo_3amer" tvg-logo="http://universeiptv.org/movpics/Yga3loh-3ameer.jpg" group-title="VOD ARABIC",VOD_AR:Yeg3alo_3amer
