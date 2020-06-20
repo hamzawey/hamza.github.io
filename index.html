@@ -445,10 +445,11 @@ gtag('config', '', { 'optimize_id': 'OPT-N4CKQZ9'});
  }
  .header .tab.hamburger {
      background-color: transparent;
-     background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -6 24 24"><path fill="#4A4A4A" d="M0 12h18v-2H0v2M0 7h18V5H0v2M0 0v2h18V0H0"/></svg>');
+     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
      background-repeat: no-repeat;
      background-size: 30px 24px;
      background-position: center center;
+     border-color: rgb(0,0,0);
      border: none;
      margin: 0;
      padding: 0;
@@ -458,7 +459,7 @@ gtag('config', '', { 'optimize_id': 'OPT-N4CKQZ9'});
      cursor: pointer;
      -ms-flex-item-align: center;
      -ms-grid-row-align: center;
-     align-self: center
+     align-self: center     
  }
  @media only screen and (max-width: 956px) {
      .header div.tab,
@@ -466,7 +467,8 @@ gtag('config', '', { 'optimize_id': 'OPT-N4CKQZ9'});
          display: none
      }
      .header .tab.hamburger {
-         display: inline-block
+         display:flex;
+         /* display: inline-block */
      }
  }
 
@@ -489,7 +491,6 @@ gtag('config', '', { 'optimize_id': 'OPT-N4CKQZ9'});
    -webkit-transition: .1s ease color;
    transition: .1s ease color
 }
- }
  .header div.tab {
      position: relative
  }
@@ -2044,6 +2045,27 @@ and (min-width:641px) {
 	font-weight: bold;
 }
 
+.intro{
+    overflow: hidden; 
+    display: flex;
+}
+
+.image_personal{
+    float: left; 
+    width: 100%; 
+    margin: 1em; 
+    padding-top: 1em;
+    align-items: flex-start;
+ }
+
+ @media all and (max-width:600px) {
+    .image_personal{
+        flex-grow: 2;
+    }
+   .intro {
+       flex-direction: column;
+   }
+}
 
 </style>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -2206,10 +2228,15 @@ and (min-width:641px) {
   </div>
 </header>
 
-<amp-img src="images/banner_1.jpg" alt="Welcome" width="2528" height="764" layout="responsive"></amp-img>
 <section id="home" class="section"> </section>
-<div class=" well">
-    <div class="intro">
+<div class = "well">
+    <div class="intro"> 
+    <div class="image_personal">
+        <amp-img src="images/personal_pic.jpg" alt="Welcome" width="100" height="100" layout="responsive"></amp-img>
+    </div>
+    
+
+    <div style="border: 1px solid black; margin:1em; padding: 10px;" >
         My name is <strong>Mostafa Hamza Sayed</strong>. I am a Software Engineering Team Lead at <a
             href="https://www.autodatasolutions.com/">Autodata Solutions</a> (a <a href="https://www.jdpower.com/">J.D.
             Power</a> company). I work with and lead a wonderful team of Software Engineers, Database Administrators,
@@ -2251,6 +2278,7 @@ and (min-width:641px) {
      </ul>
 </div>
   </div>
+</div>
   <hr class="hr-divider">
   <section id="teaching">
   	<div class="section">
